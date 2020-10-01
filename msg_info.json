@@ -1,0 +1,1791 @@
+{
+    "total" : 12,
+    "list" : [ {
+      "id" : 103239703,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1582869747,
+      "scheduledDate" : 1582965900,
+      "dispatchedDate" : 1582965901,
+      "sentDate" : 1582965967,
+      "deliveredCount" : 1966029,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 1966878,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200229_B_image＿B:ファッションコンテンツ閲覧者以外",
+      "audiences" : [ {
+        "operator" : "EXCLUDE",
+        "audienceId" : 2109831829885,
+        "description" : "LN200229_B＿除外用_ファッションコンテンツ閲覧者"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-103239703-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hvTFM0jznKXtjNF8-AgI7R0B3aUtWDGkkRVp6WAUwcT5TBB4pBRdnTlYxdhlVUw",
+    "altText" : "【10％OFF】模様替えにおすすめ♪北欧インテリアアイテムに使えるクーポンプレゼント\\n\\nプチプラクーポン\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_image&Page=/petit_s/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "プチプラクーポン\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_image&Page=/petit_s/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29270759
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-103239703-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/ht94Zrjt2KxYRI11TcBU5KjJgayYkG2tJN014CiVZCV1wRiUYRgBlIyQncHQsFQ",
+    "altText" : "最大60％OFF！家具アウトレット開催中\\n\\nディノス家具アウトレット\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_product&Page=/furniture_s/bargain/\\nムーミン＆フィンレイソングッズセール\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_product&Page=/hokuo_s/moofinsale2002/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "ディノス家具アウトレット\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_product&Page=/furniture_s/bargain/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 520
+      }
+    }, {
+      "type" : "uri",
+      "label" : "ムーミン＆フィンレイソングッズセール\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_product&Page=/hokuo_s/moofinsale2002/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 520,
+        "width" : 1040,
+        "height" : 520
+      }
+    } ]
+  },
+        "originalId" : 29270779
+      }, {
+        "contentType" : "FLEX",
+        "key" : "br-103239703-2",
+        "messageObject" : {
+    "type" : "flex",
+    "altText" : "北欧インテリアアイテムが10％OFF★",
+    "contents" : {
+      "type" : "carousel",
+      "contents" : [ {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582786423242-Jmi7AkXELnZPH1dMAOuaYqU2e5CMQFdXMPoJCv8PnU8WpppEUw",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "クーポンをGet！",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_image&Page=/hokuo_s/"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582786478608-rnjYRKbMk1e5XLi4bl2bjJ2hpFTskx7lrE7JEOqLmecMP9eYem",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_image&Page=/p/1110421928/"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582786527827-Tswzy9AbhoE68DoBZXFeqpBN8EXkmi4uZK8G1ToPrQ0uYeP0Zq",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_image&Page=/p/1132204780/"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582786552381-2zrxRDDq7jIlriMcGRZZKc2dg9JCt9gcBsuwyaAKiYvOBX9AtB",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_image&Page=/p/1321500501/"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582786574348-jxerxNmatAa5kW87b59dwgqeSN3BE4VLN0UnYu4pxJHCzmgurJ",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_image&Page=/p/1902903590/"
+        }
+      }, {
+        "type" : "bubble",
+        "body" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "filler"
+          }, {
+            "type" : "text",
+            "text" : "クーポンをGet！",
+            "size" : "md",
+            "wrap" : true,
+            "align" : "center",
+            "color" : "#5b82db"
+          }, {
+            "type" : "filler"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200229_B_image&Page=/hokuo_s/"
+        }
+      } ]
+    }
+  },
+        "originalId" : 86986
+      } ] ],
+      "messageIds" : [ [ "11514271024697", "11514271024938", "11514271015899" ] ]
+    }, {
+      "id" : 103235028,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1582868846,
+      "scheduledDate" : 1582965600,
+      "dispatchedDate" : 1582965601,
+      "sentDate" : 1582965645,
+      "deliveredCount" : 137297,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 137514,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200229_A＿A:ファッションコンテンツ閲覧者",
+      "audiences" : [ {
+        "operator" : "INCLUDE",
+        "audienceId" : 7581241907783,
+        "description" : "LN200229_A＿ファッションコンテンツ閲覧者"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-103235028-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hd8xZ64szOxddI01SPBUpK35geydoG3tIe01odwJzAngKeDgdfgB1ImgmZHQ9QA",
+    "altText" : "新作入荷！DAMA Premium春の最旬ファッションを今すぐCheck★\\n\\nワンピース・チュニックセール\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200229_A&URL=/c4/003003003024/1a1/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "ワンピース・チュニックセール\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200229_A&URL=/c4/003003003024/1a1/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29270732
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-103235028-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hBYv-Fj59HXZTVGszMmIPSnAXXUZmbF0pdTpOci0hPj48JSJpHndTQ2ZRQhU1Ng",
+    "altText" : "【10％OFF】模様替えにおすすめ♪北欧インテリアアイテムに使えるクーポンプレゼント\\n\\n北欧インテリア10%OFFクーポン\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200229_A&URL=/hokuo_s/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "北欧インテリア10%OFFクーポン",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200229_A&URL=/hokuo_s/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29270727
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-103235028-2",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hmrhpwartMl1NCUQYLD8gYW5Kcm14MXICa2dhcgtqNTIDZyNCbCp8aHgMbWUtaw",
+    "altText" : "新作入荷！DAMA Premium春の最旬ファッションを今すぐCheck★\\n\\nDAMA Premium 2020春号\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200229_A&URL=/catalog_s/dama/premium/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "DAMA Premium 2020春号\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200229_A&URL=/catalog_s/dama/premium/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29270722
+      } ] ],
+      "messageIds" : [ [ "11514248115753", "11514248116186", "11514248116489" ] ]
+    }, {
+      "id" : 89016285,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1582601297,
+      "scheduledDate" : 1582616700,
+      "dispatchedDate" : 1582616701,
+      "sentDate" : 1582616745,
+      "deliveredCount" : 289523,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 297045,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200225_B:2/18配信開封者（セグメントA&ID連携者除外）",
+      "audiences" : [ {
+        "operator" : "INCLUDE",
+        "audienceId" : 1789743790333,
+        "description" : "LN200225_B_2/18配信開封者"
+      }, {
+        "operator" : "EXCLUDE",
+        "audienceId" : 3413711817910,
+        "description" : "LN200225_B_除外用_ID連携者"
+      }, {
+        "operator" : "EXCLUDE",
+        "audienceId" : 3131782475300,
+        "description" : "LN200225_B_除外用_LINE閲覧者（ID連携者除外）"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-89016285-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hL-VUapAsEwJzLGVHEhoBPlBvUzJGFFNdVUJAOTZ_JVYtSwkRCw9dN0ckRGVOSw",
+    "altText" : "新規ID連携で栃木産スカイベリーを抽選でプレゼント！今すぐID連携♪\\n\\n夜だけタイムセール\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200225_B&Page=/weekdaynightsale_s/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "夜だけタイムセール\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200225_B&Page=/weekdaynightsale_s/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29025150
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-89016285-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hQX7PunZqDncSKXgycx8cSzFqTkcnEU4oNEddWCsvUCxEa0p1aQpAQicpUkAuEQ",
+    "altText" : "【20％OFFクーポン】プチプラアイテムがクーポンでさらにお買い得♪\\n\\nプチプラクーポン\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200225_B&Page=/petit_s/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "プチプラクーポン\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200225_B&Page=/petit_s/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29025142
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-89016285-2",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hNBZxEmLlEW1_AWcoHjcDUVxCUV1KOVEyWW9CWTZkRx8xYgRyAyJfWEsJRgpMNg",
+    "altText" : "新規ID連携で栃木産スカイベリーを抽選でプレゼント！今すぐID連携♪\\n\\nID連携キャンペーン（いちご）\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200225_B&URL=/defaultMall/sitemap/CMmLineWebLogin_002.jsp\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "ID連携キャンペーン（いちご）\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200225_B&URL=/defaultMall/sitemap/CMmLineWebLogin_002.jsp",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29025131
+      } ] ],
+      "messageIds" : [ [ "11490296494836", "11490296492071", "11490296486824" ] ]
+    }, {
+      "id" : 89016104,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1582601237,
+      "scheduledDate" : 1582616400,
+      "dispatchedDate" : 1582616401,
+      "sentDate" : 1582616445,
+      "deliveredCount" : 291336,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 291807,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200225_A:LINE閲覧者（ID連携除外）",
+      "audiences" : [ {
+        "operator" : "INCLUDE",
+        "audienceId" : 3763182167238,
+        "description" : "LN200225_A_LINE閲覧者（ID連携者除外）"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-89016104-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/h6mtzba1jaUJRAx8HMDV7fnJAKXJkOykdd206LT8EfAoQanRHcyAnd2ULPiVgYQ",
+    "altText" : "新規ID連携で栃木産スカイベリーを抽選でプレゼント！今すぐID連携♪\\n\\n夜だけタイムセール\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200225_A&URL=/weekdaynightsale_s/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "夜だけタイムセール\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200225_A&URL=/weekdaynightsale_s/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29025122
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-89016104-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hN1mtuSHqER5IDWdbKTsDImtOUS59NVFBbmNCAT1WSiYLegocPC5fK30NTSl7bg",
+    "altText" : "【20％OFFクーポン】プチプラアイテムがクーポンでさらにお買い得♪\\n\\nプチプラクーポン\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200225_A&URL=/petit_s/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "プチプラクーポン\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200225_A&URL=/petit_s/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29025117
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-89016104-2",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hBHZYa149HWd_IGsiHhYPW1xjXVdKGF04WU5Ofj5gNyooEh9lAQNTUksoSgBJEg",
+    "altText" : "新規ID連携で栃木産スカイベリーを抽選でプレゼント！今すぐID連携♪\\n\\nID連携キャンペーン（いちご）\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200225_A&URL=/defaultMall/sitemap/CMmLineWebLogin_002.jsp\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "ID連携キャンペーン（いちご）\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200225_A&URL=/defaultMall/sitemap/CMmLineWebLogin_002.jsp",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29025109
+      } ] ],
+      "messageIds" : [ [ "11490274250057", "11490274256599", "11490274247610" ] ]
+    }, {
+      "id" : 88998834,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1582258467,
+      "scheduledDate" : 1582360800,
+      "dispatchedDate" : 1582360801,
+      "sentDate" : 1582360845,
+      "deliveredCount" : 386709,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 387460,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200222_LINE閲覧者",
+      "audiences" : [ {
+        "operator" : "INCLUDE",
+        "audienceId" : 3894416519493,
+        "description" : "LN200222_LINE閲覧者"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-88998834-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hUHu1ZpIrCmdQSHwiMX4YW3MLSldlcEo4diZZXSY4FQ0bEww4N2tEUmRAXV9tew",
+    "altText" : "【10％OFFクーポン】模様替えにおすすめ♪インテリアアイテムをお得にGet★\\n\\nファッションアウトレット\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/c3/003006001/1a1/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "ファッションアウトレット\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/c3/003006001/1a1/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 29023930
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-88998834-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hJFoBE06OFWlKO2MsKw0HVWl4VVl_A1U2bFVGWw0_OVB-bwFnZhhbXH4zQlF4Aw",
+    "altText" : "最大半額！コンフォートシューズセール開催中♪\\n\\n家具タイムセール\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/furniture_s/weekendsale/&openExternalBrowser=1\\nコンフォートシューズセール\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/beauty_s/comfortshoes_s/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "家具タイムセール\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/furniture_s/weekendsale/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 520
+      }
+    }, {
+      "type" : "uri",
+      "label" : "コンフォートシューズセール\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/beauty_s/comfortshoes_s/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 520,
+        "width" : 1040,
+        "height" : 520
+      }
+    } ]
+  },
+        "originalId" : 29023923
+      }, {
+        "contentType" : "FLEX",
+        "key" : "br-88998834-2",
+        "messageObject" : {
+    "type" : "flex",
+    "altText" : "10％OFF！インテリアアイテムがお得♪",
+    "contents" : {
+      "type" : "carousel",
+      "contents" : [ {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582096976391-BAIwfPvzIr8lDWeXSaGZcan7UKUU1D1ZglY08TErykhbK9bJUG",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "クーポンをGet！",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/campaign_s/newlife2002/&openExternalBrowser=1"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582097212421-63cQdhWKQy1J7PJaRXO7FR4bNWtekya0c17u6es4YVT5o6bYDb",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/p/1110410303/&openExternalBrowser=1"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582097261297-N9h6ZbsPu8OYXEOwmxhreTa4uVfZmxkPSGobpkQl8rhLw1KEa6",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/p/1110420952/&openExternalBrowser=1"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582097284629-MuuuYYbuX9WMcnbc0jTPW1ikV8yEnpPOiyYaJwd9eR2YMMhtHp",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/p/1244001776/&openExternalBrowser=1"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1582097302850-pi8jzn35LLh7443wClNQRX1gqLoJ8I4Xzh0RyQuAftaaWu40eT",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/p/1273900883/&openExternalBrowser=1"
+        }
+      }, {
+        "type" : "bubble",
+        "body" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "filler"
+          }, {
+            "type" : "text",
+            "text" : "クーポンをGet！",
+            "size" : "md",
+            "wrap" : true,
+            "align" : "center",
+            "color" : "#5b82db"
+          }, {
+            "type" : "filler"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200222&URL=/campaign_s/newlife2002/&openExternalBrowser=1"
+        }
+      } ]
+    }
+  },
+        "originalId" : 77238
+      } ] ],
+      "messageIds" : [ [ "11473866458592", "11473866444137", "11473866456068" ] ]
+    }, {
+      "id" : 80523472,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1581994827,
+      "scheduledDate" : 1582011600,
+      "dispatchedDate" : 1582011601,
+      "sentDate" : 1582011667,
+      "deliveredCount" : 1996025,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 1996031,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200218_ID連携者以外",
+      "audiences" : [ {
+        "operator" : "EXCLUDE",
+        "audienceId" : 2130107864464,
+        "description" : "LN200218＿除外用_ID連携者"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-80523472-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hytqj1VEOJltUE1AeNSU0Z3dQZmthK2YEcn11eGFEIwBiVDxUCjBobmATKDtkIg",
+    "altText" : "【本日まで】10％OFFクーポンプレゼント！今すぐID連携♪\\n\\n夜だけタイムセール\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200218&Page=/weekdaynightsale_s/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "夜だけタイムセール",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200218&Page=/weekdaynightsale_s/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28850278
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-80523472-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hgVS668RyOHl2T048F3kqRVUMeElDd3gmUCFrHBMLMyEWIzsqOWx2TEJPNhlCKA",
+    "altText" : "抽選でカナダ航空券プレゼント♪\\n\\nカナダ航空券プレゼントキャンペーン\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200218&Page=/form5/pub/present/ml_2002\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "カナダ航空券プレゼントキャンペーン",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200218&Page=/form5/pub/present/ml_2002",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28850245
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-80523472-2",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hWep8z1dGCEpVQX4PNHcadnYCSHpgeUgVcy9beDQ7XgJmMExlcmJGf2FBBnIweA",
+    "altText" : "【本日まで】10％OFFクーポンプレゼント！今すぐID連携♪\\n\\nID連携キャンペーン（10％OFF）\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200218&URL=/defaultMall/sitemap/CMmLineWebLogin_002.jsp\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "ID連携キャンペーン（10％OFF）",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200218&URL=/defaultMall/sitemap/CMmLineWebLogin_002.jsp",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28850163
+      } ] ],
+      "messageIds" : [ [ "11450827495739", "11450827489611", "11450827497321" ] ]
+    }, {
+      "id" : 80400832,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1581659041,
+      "scheduledDate" : 1581756000,
+      "dispatchedDate" : 1581756001,
+      "sentDate" : 1581756045,
+      "deliveredCount" : 248757,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 249239,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200215_B:LINE閲覧者（ファッションコンテンツ閲覧者除外）",
+      "audiences" : [ {
+        "operator" : "INCLUDE",
+        "audienceId" : 4054920535484,
+        "description" : "LN200215_B:LINE閲覧者（ファッションコンテンツ閲覧者除外）"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-80400832-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/h0fNzTET1b0lrAxkMCjV9dUhAL3leOy8WTW08X1YFZQYmOlVhRyAhfF8CNHlZMw",
+    "altText" : "タイムセール開催中！新生活におすすめアイテムを今すぐCheck★\\n\\nDAMA collection 2020春号シークレットセール\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200215_B&Page=/c3/005039394/1a2/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "DAMA collection 2020春号シークレットセール\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200215_B&Page=/c3/005039394/1a2/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28817687
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-80400832-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hXwGGQfYIB1hiPnEdAwgVZEF9R2hXBkcHRFBUQCFfJQorajBLTx1JbVY_XGFVDA",
+    "altText" : "今すぐ使える！春ファッションセール♪\\n\\n春ファッションセール\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200215_B&Page=/fashion_s/fashionsale/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "春ファッションセール\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200215_B&Page=/fashion_s/fashionsale/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28817675
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-80400832-2",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hmgim0E1bMkhMFEQNLSIgdG9Xcnh5LHIXanphajYSLQYYcxdJHjd8fXgVaXh4IQ",
+    "altText" : "タイムセール開催中！新生活におすすめアイテムを今すぐCheck★\\n\\n新生活特集\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200215_B&Page=/newlife_s/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "新生活特集\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200215_B&Page=/newlife_s/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28817659
+      } ] ],
+      "messageIds" : [ [ "11434378658240", "11434378646035", "11434378649042" ] ]
+    }, {
+      "id" : 80400026,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1581658984,
+      "scheduledDate" : 1581755700,
+      "dispatchedDate" : 1581755701,
+      "sentDate" : 1581755745,
+      "deliveredCount" : 138583,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 138799,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200215_A:ファッションコンテンツ閲覧者 ",
+      "audiences" : [ {
+        "operator" : "INCLUDE",
+        "audienceId" : 3753103606020,
+        "description" : "LN200215_A:ファッションコンテンツ閲覧者"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-80400026-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/h7dvrP-fIaEtTCx4OMj16d3BIKHtmMygUdWU7ZDhzTSI-W3lBKigmfmcKM3ozbA",
+    "altText" : "【最大40％OFF】DAMA collection春号シークレットセール開催中★\\n\\n新生活特集\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200215_A&URL=/newlife_s/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "新生活特集\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200215_A&URL=/newlife_s/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28817649
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-80400026-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hDHnRSMvvG2dLK20iKh0JW2hoW1d-E1s4bUVIYnFwMj4LQQJxBwhVUn8qQF59Hg",
+    "altText" : "今すぐ使える！春ファッションセール♪\\n\\n春ファッションセール\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200215_A&URL=/fashion_s/fashionsale/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "春ファッションセール\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200215_A&URL=/fashion_s/fashionsale/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28817643
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-80400026-2",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hm-Zz1gF1MgJ_A0RHHjUgPlxAcjJKO3JdWW1hGBdxPGEQWAwzJyB8N0sCbmUYZw",
+    "altText" : "【最大40％OFF】DAMA collection春号シークレットセール開催中★\\n\\nDAMA collection 2020春号シークレットセール\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200215_A&URL=/c3/005039394/1a2/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "DAMA collection 2020春号シークレットセール\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200215_A&URL=/c3/005039394/1a2/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28817587
+      } ] ],
+      "messageIds" : [ [ "11434356076643", "11434356085759", "11434356085232" ] ]
+    }, {
+      "id" : 76077202,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1581041947,
+      "scheduledDate" : 1581151200,
+      "dispatchedDate" : 1581151201,
+      "sentDate" : 1581151267,
+      "deliveredCount" : 1993917,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 1994552,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200208_B:ファッションコンテンツ閲覧者以外 ",
+      "audiences" : [ {
+        "operator" : "EXCLUDE",
+        "audienceId" : 4689371543173,
+        "description" : "LN200208_B＿除外用_ファッションコンテンツ閲覧者"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-76077202-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hjqtUspApNV5RLEMbMBonYnJvdW5kFHUBd0JmQixQChMFbzQMDw97a2orPD5jGQ",
+    "altText" : "【1,500円OFF】クーポンで買いたい♪憧れ家電をCheck！\\n\\nDAMA PLUS、So close，シークレットセール\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/secretsale_200204_s/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "DAMA PLUS、So close，シークレットセール\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/secretsale_200204_s/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28584397
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-76077202-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hgxyVNPSdOFdcL04SPRkqa39seGdpF3gIekFrNghrAh0LeCJZOgx2YmcoMTdtHA",
+    "altText" : "家具週末タイムセール開催中！\\n\\n家具週末タイムセール\\n\\nhttps://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/furniture_s/weekendsale/\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "家具週末タイムセール\\n",
+      "linkUri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/furniture_s/weekendsale/",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28584394
+      }, {
+        "contentType" : "FLEX",
+        "key" : "br-76077202-2",
+        "messageObject" : {
+    "type" : "flex",
+    "altText" : "1,500円OFFクーポン★プレゼント",
+    "contents" : {
+      "type" : "carousel",
+      "contents" : [ {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1580881363041-Zo3vV5aFUk5NAgfMJCv7ERud8b0tfO7BT09GqTWejAR0W9BOs4",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "クーポンをGet！",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/campaign_s/coupon/20200207/"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1580881428841-0XIeLBl1JBvoWcAfNPO2ReTlplCW4c5zP7lqJZrMVLj6mMU8Cv",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/p/1357800032/"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1580881495563-1wj4ZMliydgFlRsQrbXQ51kCWzaNExgPHs7GkXXWSM1y2KbM94",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/p/1178800747/"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1580881519528-KZZhwOMwudcxK7itHRaNfxahqZte7TPZwiPnEe37M4APjKJHRx",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/p/1270600116/"
+        }
+      }, {
+        "type" : "bubble",
+        "hero" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "image",
+            "url" : "https://vos.line-scdn.net/card-type-message-image/131xojpr/1580881535885-mQFpzq0ozTbQCvgpgEczW2G4PzeRPSBmZ4gBc1owpSNqk65yu2",
+            "size" : "full",
+            "aspectMode" : "cover",
+            "aspectRatio" : "10:9"
+          }, {
+            "type" : "box",
+            "layout" : "horizontal",
+            "contents" : [ {
+              "type" : "filler"
+            }, {
+              "type" : "box",
+              "layout" : "vertical",
+              "contents" : [ {
+                "type" : "text",
+                "text" : "商品をみる",
+                "size" : "md",
+                "align" : "center",
+                "color" : "#ffffff"
+              } ],
+              "flex" : 0,
+              "backgroundColor" : "#00000066",
+              "cornerRadius" : "24px",
+              "paddingTop" : "12px",
+              "paddingBottom" : "12px",
+              "paddingStart" : "24px",
+              "paddingEnd" : "24px"
+            }, {
+              "type" : "filler"
+            } ],
+            "position" : "absolute",
+            "offsetBottom" : "24px",
+            "offsetStart" : "0px",
+            "offsetEnd" : "0px"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/p/1259800876/"
+        }
+      }, {
+        "type" : "bubble",
+        "body" : {
+          "type" : "box",
+          "layout" : "vertical",
+          "contents" : [ {
+            "type" : "filler"
+          }, {
+            "type" : "text",
+            "text" : "クーポンをGet！",
+            "size" : "md",
+            "wrap" : true,
+            "align" : "center",
+            "color" : "#5b82db"
+          }, {
+            "type" : "filler"
+          } ]
+        },
+        "action" : {
+          "type" : "uri",
+          "uri" : "https://weblogin.loopass.net/login?id=a0759d09176d481627721652a951e5fa24e10466&CP=49-LN200208_B&Page=/campaign_s/coupon/20200207/"
+        }
+      } ]
+    }
+  },
+        "originalId" : 61467
+      } ] ],
+      "messageIds" : [ [ "11394975577305", "11394975586246", "11394975589444" ] ]
+    }, {
+      "id" : 76076424,
+      "status" : "SENT",
+      "withTimeline" : false,
+      "immediate" : false,
+      "savedDate" : 1581041523,
+      "scheduledDate" : 1581150900,
+      "dispatchedDate" : 1581150901,
+      "sentDate" : 1581150945,
+      "deliveredCount" : 139058,
+      "failReason" : null,
+      "target" : null,
+      "volume" : 139271,
+      "testId" : null,
+      "testName" : null,
+      "testPercentage" : null,
+      "testVariations" : null,
+      "remarks" : "LN200208_A:ファッションコンテンツ閲覧者 ",
+      "audiences" : [ {
+        "operator" : "INCLUDE",
+        "audienceId" : 8572705242008,
+        "description" : "LN200208_A＿ファッションコンテンツ閲覧者"
+      } ],
+      "balloons" : [ [ {
+        "contentType" : "RICH",
+        "key" : "br-76076424-0",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hBBKMPPoPHW1uNGsoDwIPUU13XV1bDF0ySFpOCywwPAcYAANyChdTWFUzFFVaAA",
+    "altText" : "【最大40％OFF】DAMA PLUS、So close，シークレットセール開催中！\\n\\n家具週末タイムセール\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200208_A&URL=/furniture_s/weekendsale/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "家具週末タイムセール\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200208_A&URL=/furniture_s/weekendsale/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28584337
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-76076424-1",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/hUngunDM9CkFCDHwEIzoYfWFPSnF3NEoeZGJZfhpEHHZ3YB9EEC9EdHkLA3giaQ",
+    "altText" : "ニットアイテムSALE開催中！\\n\\nファッション雑貨セール\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200208_A&URL=/c3/003006002/1a2/&openExternalBrowser=1\\nニットセール\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200208_A&URL=/fashion_s/wn_new/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "ファッション雑貨セール\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200208_A&URL=/c3/003006002/1a2/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 520
+      }
+    }, {
+      "type" : "uri",
+      "label" : "ニットセール",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200208_A&URL=/fashion_s/wn_new/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 520,
+        "width" : 1040,
+        "height" : 520
+      }
+    } ]
+  },
+        "originalId" : 28584335
+      }, {
+        "contentType" : "RICH",
+        "key" : "br-76076424-2",
+        "messageObject" : {
+    "type" : "imagemap",
+    "baseUrl" : "https://obs.line-scdn.net/h8QNxErPkZ35rARE7Cjd1QkhCJ05eOSchTW80czABQBg-QXBLFSIpS1AGbkcNOA",
+    "altText" : "【最大40％OFF】DAMA PLUS、So close，シークレットセール開催中！\\n\\nDAMA PLUS、So close，シークレットセール\\n\\nhttps://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200208_A&URL=/secretsale_200204_s/&openExternalBrowser=1\\n",
+    "baseSize" : {
+      "height" : 1040,
+      "width" : 1040
+    },
+    "video" : null,
+    "actions" : [ {
+      "type" : "uri",
+      "label" : "DAMA PLUS、So close，シークレットセール\\n",
+      "linkUri" : "https://www.dinos.co.jp/defaultMall/sitemap/CSfLinkHidden.jsp?SN=10&SD=49-LN200208_A&URL=/secretsale_200204_s/&openExternalBrowser=1",
+      "text" : null,
+      "area" : {
+        "x" : 0,
+        "y" : 0,
+        "width" : 1040,
+        "height" : 1040
+      }
+    } ]
+  },
+        "originalId" : 28584327
+      } ] ],
+      "messageIds" : [ [ "11394954206644", "11394954204853", "11394954193127" ] ]
+    } ]
+  }
+  
+  

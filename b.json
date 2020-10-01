@@ -1,0 +1,77 @@
+{
+    "overview" : {
+      "broadcastId" : 90838635,
+      "timestamp" : 1583347946,
+      "uniqueImpression" : 137473,
+      "uniqueClick" : 4110,
+      "uniqueVideoStart" : null,
+      "uniqueVideoComplete" : null,
+      "metricsAvailable" : true
+    },
+    "messages" : [ {
+      "messageId" : 11514621199376,
+      "impression" : 143485,
+      "videoStart" : null,
+      "video25" : null,
+      "video50" : null,
+      "video75" : null,
+      "videoComplete" : null,
+      "uniqueVideoStart" : null,
+      "uniqueVideo25" : null,
+      "uniqueVideo50" : null,
+      "uniqueVideo75" : null,
+      "uniqueVideoComplete" : null
+    }, {
+      "messageId" : 11514621200782,
+      "impression" : 13238,
+      "videoStart" : null,
+      "video25" : null,
+      "video50" : null,
+      "video75" : null,
+      "videoComplete" : null,
+      "uniqueVideoStart" : null,
+      "uniqueVideo25" : null,
+      "uniqueVideo50" : null,
+      "uniqueVideo75" : null,
+      "uniqueVideoComplete" : null
+    }, {
+      "messageId" : 11514621193056,
+      "impression" : 9779,
+      "videoStart" : null,
+      "video25" : null,
+      "video50" : null,
+      "video75" : null,
+      "videoComplete" : null,
+      "uniqueVideoStart" : null,
+      "uniqueVideo25" : null,
+      "uniqueVideo50" : null,
+      "uniqueVideo75" : null,
+      "uniqueVideoComplete" : null
+    } ],
+    "clicks" : [ {
+      "messageId" : 11514621193056,
+      "url" : "http://bit.ly/2HG9vRm?openExternalBrowser=1",
+      "count" : 321,
+      "uu" : 308,
+      "uuOfRequest" : 308
+    }, {
+      "messageId" : 11514621199376,
+      "url" : "http://bit.ly/37JaE5d?openExternalBrowser=1",
+      "count" : 2682,
+      "uu" : 2545,
+      "uuOfRequest" : 2545
+    }, {
+      "messageId" : 11514621200782,
+      "url" : "http://bit.ly/2uhJGUC?openExternalBrowser=1",
+      "count" : 1087,
+      "uu" : 1061,
+      "uuOfRequest" : 1061
+    }, {
+      "messageId" : 11514621193056,
+      "url" : "http://bit.ly/2P9QuuG?openExternalBrowser=1",
+      "count" : 330,
+      "uu" : 324,
+      "uuOfRequest" : 324
+    } ],
+    "metricsAvailable" : true
+  }
